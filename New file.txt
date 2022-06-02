@@ -1,0 +1,6 @@
+pak
+ind
+aust
+uk
+west
+engl
